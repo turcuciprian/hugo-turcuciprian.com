@@ -1,8 +1,13 @@
 baseurl = "http://turcuciprian.com/"
 languageCode = "en-us"
-title = "Turcu Ciprian - My very own personal place in the world"
+title = "Turcu Ciprian"
 theme = "casper"
 
 [params]
-  description = "Ciprian's Awesome Hugo Site"
+  description = "My very own place in the world"
   author = "Ciprian Turcu"
+  cover = "images/cover.jpeg"
+  logo = "images/logo.jpeg"
+  githubName = "turcuciprian"
+  twitterName = "turcuciprian"
+  # facebookName = "turcu.ciprian"
