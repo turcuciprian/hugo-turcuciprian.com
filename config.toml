@@ -1,3 +1,8 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://turcuciprian.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Turcu Ciprian - My very own personal place in the world"
+theme = "casper"
+
+[params]
+  description = "Ciprian's Awesome Hugo Site"
+  author = "Ciprian Turcu"
