@@ -1,7 +1,7 @@
 baseurl = "http://turcuciprian.com/"
 languageCode = "en-us"
 title = "Turcu Ciprian"
-theme = "casper"
+theme = "cactus"
 
 [params]
   description = "My very own place in the world"
