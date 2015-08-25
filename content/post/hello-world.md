@@ -29,4 +29,5 @@ Here's a list of stuff I want to post in the near future.
 * Installing Hugo
 * Running Hugo (golang) - (a deeper look, more explanations)
 * Developing in go, Basics
+* Creating menus in Hug
 
