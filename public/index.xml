@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Turcu Ciprian - My very own personal place in the world</title>
-    <link>http://localhost:1313/</link>
+    <link>http://turcuciprian.com/</link>
     <description>Recent content on Turcu Ciprian - My very own personal place in the world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 25 Aug 2015 02:22:30 +0300</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://turcuciprian.com/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hello Dog!</title>
-      <link>http://localhost:1313/post/hello-world/</link>
+      <link>http://turcuciprian.com/post/hello-world/</link>
       <pubDate>Tue, 25 Aug 2015 02:22:30 +0300</pubDate>
       
-      <guid>http://localhost:1313/post/hello-world/</guid>
+      <guid>http://turcuciprian.com/post/hello-world/</guid>
       <description>
 
 &lt;h3 id=&#34;what:aa77bbfd89a7b0ff10def205b9c08d51&#34;&gt;What?&lt;/h3&gt;
