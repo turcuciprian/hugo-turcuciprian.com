@@ -20,3 +20,54 @@ To do this we need to edit config.toml that is in the root of the site.
 here you have to have this variable:
 ```
 baseurl = "http://your-site.com/"
+```
+You can also set a site title:
+```
+title = "Your Site title"
+```
+You can set the theme:
+```
+theme = "cactus"
+```
+The theme name has to be the directory name in the root of the hugo site/themes/
+
+You can set other parameters:
+```
+[params]
+  description = "Site description goes here"
+  author = "Your full name"
+  cover = "images/cover.jpeg"
+  logo = "images/logo.jpeg"
+  githubName = "whatever"
+  twitterName = "whatever"
+  facebookName = "whatever"
+```
+The images you place in content/images and they will be added to the theme in the compiled version of the theme in the images folder.
+### Create a Post
+
+To create a post just type:
+```
+hugo new posts/your-post-name.cmd
+```
+and then go to content/posts/your-post-name.md and edit that.
+
+In there you will have:
+```
++++
+date = "2015-08-26T01:23:01+03:00"
+description = "Your post description goes here"
+title = "Your post title goes here"
+draft = true
++++
+
+Your post content goes here. Use markup language to style it
+```
+
+### Create a page:
+Just like post you do:
+```
+hugo new page/your-page-name.cmd
+```
+And that's a page not a post.
+
+This is pretty much it, the basics. More to come soon!
