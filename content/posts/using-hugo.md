@@ -2,7 +2,6 @@
 date = "2015-08-27T06:56:31Z"
 description = "Simple basics on using HuGO"
 title = "Using huGO"
-
 +++
 
 ###Creating a site
@@ -30,6 +29,14 @@ You can set the theme:
 theme = "cactus"
 ```
 The theme name has to be the directory name in the root of the hugo site/themes/
+
+To download all the available themes for hugo run in the themes directory:
+```
+git remote add origin https://github.com/spf13/hugoThemes.git
+git pull origin master
+```
+And voila, you have all the themes in the themes directory
+
 
 You can set other parameters:
 ```
