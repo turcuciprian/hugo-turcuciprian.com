@@ -1,7 +1,7 @@
-baseurl = "http://turcuciprian.com/"
+baseurl = "http://turcuciprian.com"
 languageCode = "en-us"
 title = "Turcu Ciprian"
-theme = "cactus"
+theme = "slim"
 #theme git repo: https://github.com/digitalcraftsman/hugo-cactus-theme.git
 
 [params]
@@ -11,6 +11,6 @@ theme = "cactus"
   logo = "images/logo.jpeg"
   githubName = "turcuciprian"
   twitterName = "turcuciprian"
-  facebookName = "turcu.ciprian"
+ # facebookName = "turcu.ciprian"
 
 

@@ -2,6 +2,8 @@
 date = "2015-08-26T01:23:01+03:00"
 description = ""
 title = "Install Amazon S3 AWS-cli"
+tags = ["Install","Amazon","Terminal","aws-cli","S3"]
+categories = ["Tutorial","Terminal","Amazon"]
 +++
 ### What is AWS-cli?
 
