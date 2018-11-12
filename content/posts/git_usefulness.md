@@ -1,10 +1,10 @@
-+++
-date = "2015-08-27T23:32:45+03:00"
-description = "Useful basic git commands"
-title = "Useful Git commands"
-tags = ["Git","Tutorial","Terminal","Useful","Basics"]
-categories = ["Tutorial","Terminal"]
-+++
+---
+title: "Useful Git commands"
+description: "Useful basic git commands"
+date: 2015-08-27T23:32:45+03:00
+tags: ["Git","Tutorial","Terminal","Useful","Basics"]
+categories: ["Tutorial","Terminal"]
+---
 
 ### Initialize git in a working directory
 

@@ -1,10 +1,10 @@
-+++
-date = "2015-08-27T06:56:31Z"
-description = "Simple basics on using HuGO"
-title = "Using huGO"
-categories = ["Hugo","Blog","tutorial"]
-tags=["Hugo","Go","tutorial"]
-+++
+---
+date: 2015-08-27T06:56:31Z
+description: "Simple basics on using HuGO"
+title: "Using huGO"
+categories: ["Hugo","Blog","tutorial"]
+tags: ["Hugo","Go","tutorial"]
+---
 
 ###Creating a site
 

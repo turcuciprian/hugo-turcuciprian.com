@@ -1,10 +1,10 @@
-+++
-date = "2015-08-28T00:44:07+03:00"
-description = "How to install and use s3cmd walktrough"
-title = "Installing and using s3cmd"
-tags = ["S3","Tutorial","s3cmd","Terminal","Sync","Put"]
-categories = ["Tutorial","Terminal","Amazon"]
-+++
+---
+date: 2015-08-28T00:44:07+03:00
+description: "How to install and use s3cmd walktrough"
+title: "Installing and using s3cmd"
+tags: ["S3","Tutorial","s3cmd","Terminal","Sync","Put"]
+categories: ["Tutorial","Terminal","Amazon"]
+---
 
 ### Download
 

@@ -1,10 +1,10 @@
-+++
-date = "2015-08-26T04:46:33+03:00"
-description = "Installing the go Website Engine"
-title = "Install HuGO"
-tags = ["Hugo","Install","Tutorial","Terminal","Go"]
-categories = ["Tutorial","Terminal","Hugo"]
-+++
+---
+date: 2015-08-26T04:46:33+03:00
+description: "Installing the go Website Engine"
+title: "Install HuGO"
+tags: ["Hugo","Install","Tutorial","Terminal","Go"]
+categories: ["Tutorial","Terminal","Hugo"]
+---
 
 What's ironic is that I'm creating this page for Hugo to process and generate later. Here's how you install (in Ubuntu) Hugo.
 

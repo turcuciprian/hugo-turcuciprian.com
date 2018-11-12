@@ -1,10 +1,9 @@
-+++
-date = "2015-08-26T01:38:26+03:00"
-draft = false
-description = ""
-title = "about me"
-
-+++
+---
+date: 2015-08-26T01:38:26+03:00
+draft: false
+description: ""
+title: "about me"
+---
 
 I'm a 28 year old web developer from Romania, Cluj Napoca. 
 

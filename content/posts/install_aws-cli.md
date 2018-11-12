@@ -1,10 +1,10 @@
-+++
-date = "2015-08-26T01:23:01+03:00"
-description = ""
-title = "Install Amazon S3 AWS-cli"
-tags = ["Install","Amazon","Terminal","aws-cli","S3"]
-categories = ["Tutorial","Terminal","Amazon"]
-+++
+---
+date: 2015-08-26T01:23:01+03:00
+description: ""
+title: "Install Amazon S3 AWS-cli"
+tags: ["Install","Amazon","Terminal","aws-cli","S3"]
+categories: ["Tutorial","Terminal","Amazon"]
+---
 ### What is AWS-cli?
 
 AWS-CLI is a comand line tool that helps you manage your bucket from a command line. That's right! once configured you can push and delete your files from your S# bucket via command line.

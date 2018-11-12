@@ -1,9 +1,8 @@
-+++
-date = "2015-08-25T02:22:30+03:00"
-draft = false
-title = "Hello dog!"
-
-+++
+---
+date: 2015-08-25T02:22:30+03:00
+draft: false
+title: "Hello dog!"
+---
 ### What?
 Hello Dog is the new Hello World. This is my blog and this is obviously the first post. I am GOing to try and document some stuff here, mostly technical, about my findings, things that I try not to forget. Ever.
 

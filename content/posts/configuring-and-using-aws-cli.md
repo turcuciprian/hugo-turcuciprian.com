@@ -1,10 +1,11 @@
-+++
-date = "2015-09-02T12:50:09+03:00"
-description = "How to properly configure and use AWS-CLI"
-title = "Configuring and using aws-cli"
-tags = ["Amazon","Tutorial","Terminal","S3","AWS-CLI"]
-categories = ["Amazon","Tutorial","Terminal"]
-+++
+---
+title: "Configuring and using aws-cli"
+description: "How to properly configure and use AWS-CLI"
+tags: ["Amazon","Tutorial","Terminal","S3","AWS-CLI"]
+categories: ["Amazon","Tutorial","Terminal"]
+date: 2015-09-02T12:50:09+03:00
+draft: false
+---
 
 ### Configuring
 Run
